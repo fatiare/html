@@ -1,0 +1,42 @@
+<html>
+<head></head>
+<body>
+    <table frame="box" cellpadding="10" style="width:100%;">
+        <caption>Resultado de busqueda</caption>
+        <tr>
+            <th style="text-align:center;background-color:#1AB309;color:white;">
+                Ejercicio
+            </th>
+            <th style="background-color:#1AB309;color:white;">
+                Inventario
+            </th>
+            <th style="background-color:#1AB309;color:white;">
+                Nro. Serie
+            </th>
+        </tr>
+        <tr>
+            <td style="text-align:center;">
+                fila 1
+            </td>
+            <td style="text-align:center;">
+                fila 1
+            </td>
+            <td style="text-align:center;">
+                <input type="number" maxlength="4"/>
+            </td>
+        </tr>
+        <tr>
+                <td style="text-align:center;">
+                    fila 2
+                </td>
+                <td style="text-align:center;">
+                    fila 2
+                </td>
+                <td style="text-align:center;">
+                    <input type="text" maxlength="4"/>
+                </td>
+            </tr>
+    </table>
+
+</body>
+</html>
